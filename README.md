@@ -1,4 +1,4 @@
-# Data-Cleaning-SQL---Layoff-Analysis
+# Data-Cleaning-SQL-Layoff-Analysis
 🔹 The Challenge:
 I worked with a Layoff Analysis dataset that contained duplicates, missing values, inconsistent formats, and unnecessary records.
 
