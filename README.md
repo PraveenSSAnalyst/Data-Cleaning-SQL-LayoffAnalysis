@@ -6,8 +6,11 @@ I worked with a Layoff Analysis dataset that contained duplicates, missing value
 Using SQL, I applied several key techniques, including:
 
 ✅ Removing duplicates 
+
 ✅ Handling missing values
+
 ✅ Standardizing data formats
+
 ✅ Using staging tables to store and process intermediate cleaned data before final insertion, ensuring data integrity and rollback flexibility
 
 🔹 The Results:
