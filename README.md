@@ -3,6 +3,7 @@
 I worked with a Layoff Analysis dataset that contained duplicates, missing values, inconsistent formats, and unnecessary records.
 
 🔹 My Approach:
+
 Using SQL, I applied several key techniques, including:
 ✅ Removing duplicates 
 ✅ Handling missing values
